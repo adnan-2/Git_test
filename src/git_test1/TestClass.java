@@ -8,6 +8,7 @@ public class TestClass {
 		System.out.println("My second commit");
 
 		System.out.println("Yeni bir kod");
+		System.out.println("My third commit");
 	}
 
 }
