@@ -12,6 +12,7 @@ public class TestClass {
 		
 		System.out.println("yeni bir mesaj var");
 		System.out.println(" bunu guncelestir");
+		System.out.println("Uzak sunucundaki kodlar");
 	}
 	
 
