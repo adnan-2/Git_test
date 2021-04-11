@@ -9,6 +9,10 @@ public class TestClass {
 
 		System.out.println("Yeni bir kod");
 		System.out.println("My third commit");
+		
+		System.out.println("yeni bir mesaj var");
+		System.out.println(" bunu guncelestir");
 	}
+	
 
 }
