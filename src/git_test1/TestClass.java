@@ -12,7 +12,11 @@ public class TestClass {
 		System.out.println(" bunu guncelestir");
 		System.out.println("Uzak sunucundaki kodlar");
 		System.out.println("Uzak sunucundaki en son kodlar");
+
 		System.out.println("15 sat�ra yeni kod eklendi");
+
+		System.out.println("15 satıra yeni kod yazdım");
+
 		
 	}
 	
