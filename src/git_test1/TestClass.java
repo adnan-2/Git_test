@@ -7,6 +7,7 @@ public class TestClass {
 		System.out.println("Version 1");
 		System.out.println("My second commit");
 
+		System.out.println("Yeni bir kod");
 	}
 
 }
