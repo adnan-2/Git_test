@@ -16,7 +16,8 @@ public class TestClass {
 		System.out.println("16 satÃ„Â±ra yeni kod yazdÃ„Â±m");
 		System.out.println("17 satÄ±ra yeni kod eklendi");
 		System.out.println("Canordek Branchınde yazdıgım kodlar satır 18");
-		
+		System.out.println("Canordek Branchınde yazdıgım kodlar satır 19");
+		System.out.println("Canordek Branchınde yazdıgım kodlar satır 20");
 
 		
 	}
