@@ -15,6 +15,7 @@ public class TestClass {
 		System.out.println("15 satÄ±ra yeni kod eklendi");
 		System.out.println("16 satÃ„Â±ra yeni kod yazdÃ„Â±m");
 		System.out.println("17 satÄ±ra yeni kod eklendi");
+		System.out.println("Canordek Branchınde yazdıgım kodlar satır 18");
 		
 
 		
