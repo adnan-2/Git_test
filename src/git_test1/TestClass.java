@@ -18,7 +18,7 @@ public class TestClass {
 		System.out.println("Canordek Branchýnde yazdýgým kodlar satýr 18");
 		System.out.println("Canordek Branchýnde yazdýgým kodlar satýr 19");
 		System.out.println("Canordek Branchýnde yazdýgým kodlar satýr 20");
-
+		
 		
 	}
 	
